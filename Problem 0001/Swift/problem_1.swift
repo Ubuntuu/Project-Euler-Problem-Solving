@@ -16,4 +16,5 @@ func multilplesOf(number1: Int, number2: Int, belowRange: Int) -> Int {
   return sum
 }
 
+
 print(multilplesOf(number1: 3, number2: 5, belowRange: 1000))
