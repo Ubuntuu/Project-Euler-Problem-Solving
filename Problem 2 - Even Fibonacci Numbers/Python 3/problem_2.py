@@ -1,6 +1,6 @@
 sequence = [0, 1]
 
-# find fibonacci sequence below a number
+# find all fibonacci sequence below a number
 def fibonacci_sequence(below: int):
     next_number = 0
     while next_number < below:
