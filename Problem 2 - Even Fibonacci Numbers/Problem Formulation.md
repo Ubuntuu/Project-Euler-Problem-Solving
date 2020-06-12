@@ -9,4 +9,5 @@ four million, find the sum of the even-valued terms.
 
 ## Currently Solved with:
 
+- Java
 - Python 3
